@@ -1,0 +1,12 @@
+# Default recipients for all pipeline alert emails (Account / Daily / Hourly / Campaign-wise)
+_default:
+  - abhisheklogicserve@gmail.com
+
+Search campaigns:
+  - abhisheklogicserve@gmail.com
+Video campaigns:
+  - abhisheklogicserve@gmail.com
+Demand Gen campaigns:
+  - abhisheklogicserve@gmail.com
+Performance Max campaigns:
+  - abhisheklogicserve@gmail.com

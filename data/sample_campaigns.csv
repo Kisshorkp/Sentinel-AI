@@ -1,0 +1,11 @@
+campaign_id,campaign_name,platform,stakeholder,monthly_budget,spend_mtd,spend_yesterday,conversions,cost_per_conversion,last_updated
+1001,Brand Search - IN,Google Ads,Marketing Team,50000,41200,1850,820,50.24,2026-07-10
+1002,Performance Max - Retail,Google Ads,Retail Growth,75000,68900,3200,1450,47.52,2026-07-10
+1003,YouTube Awareness,Google Ads,Brand Team,30000,33400,980,210,159.05,2026-07-10
+1004,Lead Gen - Finance,Google Ads,Finance BU,40000,28800,1100,560,51.43,2026-07-10
+1005,Competitor Keywords,Google Ads,Performance Team,25000,24100,890,310,77.74,2026-07-10
+1006,Shopping - Electronics,Google Ads,E-commerce,60000,45200,2100,980,46.12,2026-07-10
+1007,Display Remarketing,Google Ads,CRM Team,20000,19800,720,190,104.21,2026-07-10
+1008,App Install - Android,Google Ads,Mobile Team,35000,31500,1400,620,50.81,2026-07-10
+1009,Local Services Ads,Google Ads,Regional Sales,15000,8200,410,280,29.29,2026-07-10
+1010,Seasonal Promo - Summer,Google Ads,Marketing Team,45000,47800,2250,540,88.52,2026-07-10

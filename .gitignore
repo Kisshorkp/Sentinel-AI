@@ -1,0 +1,36 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+secrets/
+service-account*.json
+credentials*.json
+*.pem
+*.p12
+.streamlit/secrets.toml
+
+# Node.js
+node_modules/
+frontend/dist/
+frontend/build/
+dist/
+build/
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / local
+*.log
+.coverage
+htmlcov/
